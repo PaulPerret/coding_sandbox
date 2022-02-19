@@ -5,7 +5,8 @@
 
 total = 0
 while 1:
-    coin = input("> Enter coin (Q, D, N, X): ")
+    print ("You've inserted: "+"${:,.2f}".format(total/100))
+    coin = input("> Enter coin (Q, D, N, X): ").lower()
     if coin == 'x':
         break
     elif coin == 'q':
@@ -14,9 +15,10 @@ while 1:
         total += 10
     elif coin == 'n':
         total += 5
+    else:
+        print ("Unknown coin type")
     
-    print ("Total is: "+"${:,.2f}".format(total/100))
-
+print ("\nYou have "+"${:,.2f}".format(total/100)+" to spend.")
 print ("What would you like?")
 print (" 1. Doritos - $0.75")
 print (" 2. Takis - $1.00")
