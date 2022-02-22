@@ -39,9 +39,14 @@ while (total >= minimum) {
     printChoices(productList);
     let choice = prompt("Choice: ");
     let product = productList[Number(choice)-1];
-    total -= product.cost;
-    console.log(`Enjoy your ${product.name}! You have ${toMoney(total)} left.`)
-}
+    if (product.cost <= total) {
+        total -= product.cost;
+        console.log(`Enjoy your ${product.name}! You have ${toMoney(total)} left.`)
+    }
+    else {
+        console.log(`You don't have enough money for ${product.name}. Please make another selection.`);
+    }
+ }
 
 
 // Format a number of cents into a readable dollar amount
