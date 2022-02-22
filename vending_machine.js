@@ -38,15 +38,28 @@ let minimum = findMinimumCost(productList);
 while (total >= minimum) {
     printChoices(productList);
     let choice = prompt("Choice: ");
-    let product = productList[Number(choice)-1];
-    if (product.cost <= total) {
-        total -= product.cost;
-        console.log(`Enjoy your ${product.name}! You have ${toMoney(total)} left.`)
+
+    if (choice.toLowerCase === 'r') {
+        break;
     }
-    else {
-        console.log(`You don't have enough money for ${product.name}. Please make another selection.`);
+    else if (!isNaN(choice)) {
+        if (productList.length < Number(choice)) {
+            console.log(`Please make a valid selection.`);
+        }
+        else {
+            let product = productList[Number(choice)-1];
+            if (product.cost <= total) {
+                total -= product.cost;
+                console.log(`Enjoy your ${product.name}! You have ${toMoney(total)} left.`)
+            }
+            else {
+                console.log(`You don't have enough money for ${product.name}. Please make another selection.`);
+            }
+        }
     }
  }
+
+ console.log(`\nHere's your change: ${toMoney(total)}`);
 
 
 // Format a number of cents into a readable dollar amount
