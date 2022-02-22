@@ -26,7 +26,7 @@ while (total >= 65):
 
     print ("\nYou have "+"${:,.2f}".format(total/100)+" to spend.")
     print ("What would you like?")
-    print (" 1. Doritos - $0.75")
+    print (" 1. Doritos - $.75")
     print (" 2. Takis - $1.00")
     print (" 3. Mike & Ikes - $0.65")
 
