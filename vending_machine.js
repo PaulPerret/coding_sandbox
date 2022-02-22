@@ -21,7 +21,7 @@ let done = false;
 let total = 0;
 while (!done) {
     let coin = prompt("Enter a coin: Q, N, D, or S to select item: ");
-    if (coin == 's') {
+    if (coin === 's') {
         done = true;
     }
     else if (coin in coinValues) {
@@ -39,10 +39,11 @@ while (total >= minimum) {
     printChoices(productList);
     let choice = prompt("Choice: ");
 
-    if (choice.toLowerCase === 'r') {
+    if (choice.toLowerCase() === "r") {
+        console.log(`Coin return chosen`);
         break;
     }
-    else if (!isNaN(choice)) {
+    else if (!(Number.isNaN(parseInt(choice)))) {
         if (productList.length < Number(choice)) {
             console.log(`Please make a valid selection.`);
         }
@@ -73,6 +74,7 @@ function printChoices(products) {
     for (let i = 0; i < products.length; i++) {
         console.log(` ${i+1}. ${products[i].name}: ${toMoney(products[i].cost)}`);
     }
+    console.log(` (R. Coin return)`);
 }
 
 // Find the minimum cost to buy something from the product list
