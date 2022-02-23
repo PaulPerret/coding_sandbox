@@ -20,7 +20,7 @@ const productList = [
 let done = false;
 let total = 0;
 while (!done) {
-    let coin = prompt("Enter a coin: Q, N, D, or S to select item: ");
+    let coin = prompt("Enter a coin: Q, N, D, or S to select item: ").toLowerCase();
     if (coin === "s") {
         done = true;
     } else if (coin in coinValues) {
