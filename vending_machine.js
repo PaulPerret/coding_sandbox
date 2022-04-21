@@ -2,14 +2,14 @@
 const prompt = require("prompt-sync")();
 
 // Values for coin inputs
-const coinValues = {
+const COIN_VALUES = {
     q: 25,
     d: 10,
     n: 5,
 };
 
 // List of products, containing names and costs
-const productList = [
+const PRODUCT_LIST = [
     { name: "Doritos", cost: 100 },
     { name: "Takis", cost: 125 },
     { name: "Mike & Ikes", cost: 65 },
@@ -23,8 +23,8 @@ while (!done) {
     let coin = prompt("Enter a coin: Q, N, D, or S to select item: ").toLowerCase();
     if (coin === "s") {
         done = true;
-    } else if (coin in coinValues) {
-        total += coinValues[coin];
+    } else if (coin in COIN_VALUES) {
+        total += COIN_VALUES[coin];
         console.log(`You have inserted: ${toMoney(total)}`);
     } else {
         console.log("I don't know what that is.");
@@ -32,19 +32,19 @@ while (!done) {
 }
 
 // Loop making selection until not enough money left
-let minimum = findMinimumCost(productList);
+let minimum = findMinimumCost(PRODUCT_LIST);
 while (total >= minimum) {
-    printChoices(productList);
+    printChoices(PRODUCT_LIST);
     let choice = prompt("Choice: ");
 
     if (choice.toLowerCase() === "r") {
         console.log(`Coin return chosen`);
         break;
     } else if (!Number.isNaN(parseInt(choice))) {
-        if (productList.length < Number(choice)) {
+        if (PRODUCT_LIST.length < Number(choice)) {
             console.log(`Please make a valid selection.`);
         } else {
-            let product = productList[Number(choice) - 1];
+            let product = PRODUCT_LIST[Number(choice) - 1];
             if (product.cost <= total) {
                 total -= product.cost;
                 console.log(
