@@ -85,3 +85,7 @@ function findMinimumCost(products) {
     }
     return minimum;
 }
+
+/*
+* This is just some text to trigger a commit to a different branch.
+*/
