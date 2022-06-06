@@ -1,4 +1,4 @@
-1.
+1.        *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Ravens', odds: 200, division: 'AFC NORTH' }
@@ -284,7 +284,7 @@ Odds: 170
 { team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
 Odds: 170
 
-27.
+27.   *DONE* *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Bengals', odds: 210, division: 'AFC NORTH' }
