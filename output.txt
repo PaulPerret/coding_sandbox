@@ -1,4 +1,4 @@
-1.        *DONE*
+1.  *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Ravens', odds: 200, division: 'AFC NORTH' }
@@ -9,7 +9,7 @@
 { team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
 Odds: 35
 
-2.
+2. *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Browns', odds: 200, division: 'AFC NORTH' }
@@ -20,7 +20,7 @@ Odds: 35
 { team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
 Odds: 35
 
-3.
+3. *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Bengals', odds: 210, division: 'AFC NORTH' }
@@ -31,7 +31,7 @@ Odds: 35
 { team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
 Odds: 45
 
-4.
+4. *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Ravens', odds: 200, division: 'AFC NORTH' }
@@ -42,7 +42,7 @@ Odds: 45
 { team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
 Odds: 75
 
-5.
+5. *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Browns', odds: 200, division: 'AFC NORTH' }
@@ -53,7 +53,7 @@ Odds: 75
 { team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
 Odds: 75
 
-6.
+6. *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Bengals', odds: 210, division: 'AFC NORTH' }
@@ -64,7 +64,7 @@ Odds: 75
 { team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
 Odds: 85
 
-7.
+7. *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Ravens', odds: 200, division: 'AFC NORTH' }
@@ -75,7 +75,7 @@ Odds: 85
 { team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
 Odds: 95
 
-8.
+8. *DONE*
 { team: 'Bills', odds: -180, division: 'AFC EAST' }
 { team: 'Chiefs', odds: 155, division: 'AFC WEST' }
 { team: 'Browns', odds: 200, division: 'AFC NORTH' }
