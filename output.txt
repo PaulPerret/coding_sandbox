@@ -1,0 +1,439 @@
+1.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 35
+
+2.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 35
+
+3.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 45
+
+4.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 75
+
+5.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 75
+
+6.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 85
+
+7.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 95
+
+8.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 95
+
+9.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 105
+
+10.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 120
+
+11.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 120
+
+12.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 130
+
+13.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 130
+
+14.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 130
+
+15.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 135
+
+16.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 135
+
+17.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 140
+
+18.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Broncos', odds: 260, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 140
+
+19.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Broncos', odds: 260, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 140
+
+20.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 145
+
+21.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Broncos', odds: 260, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 150
+
+22.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 160
+
+23.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 160
+
+24.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 170
+
+25.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 170
+
+26.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 170
+
+27.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 180
+
+28.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 180
+
+29.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 180
+
+30.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Broncos', odds: 260, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 180
+
+31.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Broncos', odds: 260, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 180
+
+32.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 190
+
+33.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 190
+
+34.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 190
+
+35.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Broncos', odds: 260, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Titans', odds: 145, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 190
+
+36.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chiefs', odds: 155, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 200
+
+37.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Broncos', odds: 260, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 200
+
+38.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Broncos', odds: 260, division: 'AFC WEST' }
+{ team: 'Browns', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 200
+
+39.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Broncos', odds: 260, division: 'AFC WEST' }
+{ team: 'Bengals', odds: 210, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Cowboys', odds: 115, division: 'NFC EAST' }
+{ team: '49ers', odds: 190, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 210
+
+40.
+{ team: 'Bills', odds: -180, division: 'AFC EAST' }
+{ team: 'Chargers', odds: 240, division: 'AFC WEST' }
+{ team: 'Ravens', odds: 200, division: 'AFC NORTH' }
+{ team: 'Colts', odds: 105, division: 'AFC SOUTH' }
+{ team: 'Eagles', odds: 210, division: 'NFC EAST' }
+{ team: 'Rams', odds: 130, division: 'NFC WEST' }
+{ team: 'Packers', odds: -170, division: 'NFC NORTH' }
+{ team: 'Buccaneers', odds: -320, division: 'NFC SOUTH' }
+Odds: 215
