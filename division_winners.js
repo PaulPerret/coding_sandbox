@@ -14,7 +14,7 @@ const AFC_NORTH = [
 ];
 
 const AFC_SOUTH = [
-    { "team": "Colts", "odds": 105, "division": "AFC SOUTH" },
+    { "team": "Colts", "odds": -105, "division": "AFC SOUTH" },
     { "team": "Titans", "odds": 145, "division": "AFC SOUTH" },
 ]
 
@@ -36,7 +36,7 @@ const NFC_NORTH = [
 
 const NFC_SOUTH = [
     { "team": "Buccaneers", "odds": -320, "division": "NFC SOUTH"},
-    { "team": "Saints", "odds": 320, "division": "NFC SOUTH"},
+    { "team": "Saints", "odds": 3280, "division": "NFC SOUTH"},
 ]
 
 const NFC_WEST = [
