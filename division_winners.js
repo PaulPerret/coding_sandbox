@@ -5,7 +5,7 @@ const AFC_EAST = [
     { "team": "Bills", "odds": -180, "division": "AFC EAST" },
     { "team": "Patriots", "odds": 400, "division": "AFC EAST"  },
     { "team": "Dolphins", "odds": 400, "division": "AFC EAST"  },
-];
+//];
 
 const AFC_NORTH = [
     { "team": "Ravens", "odds": 200, "division": "AFC NORTH" },
